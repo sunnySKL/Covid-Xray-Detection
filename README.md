@@ -23,10 +23,10 @@ This project uses a convolutional neural network (CNN) to classify chest X-ray i
 
 ## How to Run
 
-
-
 Open `4368_Project_Covid_Detection.ipynb` in Google Colab and run each cell.
 
+
+*Each run can take around 25-30 minutes depending how many epochs the machine is running. Each epoch can take around 2-3 minutes but it might take longer depending your CPU setup or if there is too much traffic on Google Colab. 
 
 
 
