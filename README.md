@@ -25,7 +25,7 @@ This project uses a convolutional neural network (CNN) to classify chest X-ray i
 
 
 
-Open `covid_xray_classifier.ipynb` in Google Colab and run each cell.
+Open `4368_Project_Covid_Detection.ipynb` in Google Colab and run each cell.
 
 
 
