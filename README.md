@@ -1,4 +1,4 @@
-# covid-xray-detection
+# Covid-Xray-Detection
 Deep learning model to detect pneumonia from chest X-rays
 
 # COVID X-Ray Detection with CNN
