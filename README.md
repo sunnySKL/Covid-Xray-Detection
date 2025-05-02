@@ -1,4 +1,4 @@
-# Covid-Xray-Detection
+# Covid-Xray-Detection Machine Learning Project
 Deep learning model to detect pneumonia from chest X-rays
 
 # COVID X-Ray Detection with CNN
@@ -23,5 +23,11 @@ This project uses a convolutional neural network (CNN) to classify chest X-ray i
 
 ## How to Run
 
+
+
 Open `covid_xray_classifier.ipynb` in Google Colab and run each cell.
+
+
+
+
 
